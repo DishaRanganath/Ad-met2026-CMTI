@@ -1,0 +1,346 @@
+{
+  "site": {
+    "title": "AdMet-2026",
+    "fullTitle": "13th Conference on Advances in Metrology (AdMet-2026)",
+    "subtitle": "and Pre-AdMet Workshop",
+    "dates": "6-8 October 2026",
+    "edition": "13th",
+    "organizer": "Central Manufacturing Technology Institute (CMTI), Bengaluru",
+    "email": "admet2k25@gmail.com",
+    "altEmail": "ashok553@gmail.com",
+    "phone": "+91-11-4560 8600",
+    "phone2": "+91-11-4560 8700"
+  },
+  "deadlines": [
+    {
+      "label": "Submission of Abstract (Extended)",
+      "date": "August 18, 2026",
+      "status": "Open"
+    },
+    {
+      "label": "Notification of Acceptance",
+      "date": "August 21, 2026",
+      "status": "Upcoming"
+    },
+    {
+      "label": "Last Date for Registration",
+      "date": "September 18, 2026",
+      "status": "Open"
+    },
+    {
+      "label": "Last Date for Paper Submission",
+      "date": "March 15, 2026",
+      "status": "Open"
+    }
+  ],
+  "homeContent": {
+    "intro": "This is the 13th inter-national conference in the AdMet series of conferences which is the flagship event of the Central manufacturing technology institute",
+    "body": "Metrology is the backbone of scientific and industrial development—forming the foundation of all precise measurements that govern quality, safety, and innovation. Recent advancements in areas such as dimensional metrology, optical metrology, quantum metrology, nano-metrology, environmental metrology, and Industry 4.0 measurement standards have placed increasing demands on National Metrology Institutes (NMIs) to achieve the highest levels of accuracy and traceability to international standards.\r\n\r\nThe International Conference Advances in Metrology (AdMet) is one of the major scientific events in India, complemented by pre-conference workshops in specialized domains of metrology. AdMet-2026 marks the 13th edition in this prestigious series and is being organized as the flagship event by the Central Manufacturing Technology Institute (CMTI), Bengaluru.\r\n\r\nThe primary objective of the AdMet series is to provide a dynamic platform for metrologists, researchers, engineers, academicians, and students from national metrology institutes, laboratories, and industries to exchange knowledge and share experiences in key R&D areas. The conference aims to foster collaboration and strengthen global scientific engagement.\r\n\r\nAdMet-2026 will also feature a comprehensive exhibition showcasing the latest measurement technologies, precision instruments, and related solutions, offering valuable exposure to researchers and industry professionals.\r\n\r\nThe organizing committee cordially invites researchers, engineers, academicians, policymakers, and exhibitors to submit their research contributions for presentation and actively participate in this prestigious event.",
+    "venueDescription": "AdMet-2026 will be organized at Central Manufacturing Technology Institute (CMTI), Bengaluru, India — a premier research and development institute known for its contributions to advanced manufacturing and innovation. Bengaluru is well connected by air, rail, and road to all major cities across India.",
+    "venueHighlights": [
+      {
+        "name": "CMTI Campus",
+        "desc": "State-of-the-art R&D institute with advanced manufacturing and metrology facilities"
+      },
+      {
+        "name": "Bengaluru City",
+        "desc": "India’s technology hub with excellent infrastructure and connectivity"
+      },
+      {
+        "name": "Yeshwanthpur",
+        "desc": "Well-connected area with metro, railway station, and hotels nearby"
+      },
+      {
+        "name": "Kempegowda International Airport",
+        "desc": "Major international airport located ~35 km from the venue"
+      },
+      {
+        "name": "Bengaluru Metro",
+        "desc": "Convenient metro connectivity via Green Line (Sandal Soap Factory / Yeshwanthpur stations)"
+      }
+    ]
+  },
+  "committeeRoles": [
+    {
+      "name": "Dr. Nagahanumaiah",
+      "role": "Director",
+      "title": "CMTI",
+      "photo": "/images/uploads/1775126324921-748902.jpg"
+    },
+    {
+      "name": "Dr. [Patron Name]",
+      "role": "Patron",
+      "title": "President, Metrology Society of India",
+      "photo": ""
+    },
+    {
+      "name": "Dr. [Conference Chair]",
+      "role": "Conference Chair",
+      "title": "Senior Principal Scientist, CSIR-NPL",
+      "photo": ""
+    },
+    {
+      "name": "Dr. [Convener Name]",
+      "role": "Convener",
+      "title": "Principal Scientist, CSIR-NPL",
+      "photo": ""
+    },
+    {
+      "name": "Dr. [Co-Convener 1]",
+      "role": "Co-Convener",
+      "title": "Scientist, CSIR-NPL",
+      "photo": ""
+    },
+    {
+      "name": "Dr. [Secretary Name]",
+      "role": "General Secretary",
+      "title": "Secretary, Metrology Society of India",
+      "photo": ""
+    },
+    {
+      "name": "Dr. [Co-Convener 2]",
+      "role": "Co-Convener",
+      "title": "Scientist, CSIR-NPL",
+      "photo": ""
+    },
+    {
+      "name": "Dr. [Co-Convener 3]",
+      "role": "Co-Convener",
+      "title": "Scientist, CSIR-NPL",
+      "photo": ""
+    },
+    {
+      "name": "Dr. [Treasurer Name]",
+      "role": "Treasurer",
+      "title": "Finance Officer, MSI",
+      "photo": ""
+    }
+  ],
+  "internationalAdvisory": [
+    "Dr. [IAC Member 1] – [Institution], [Country]",
+    "Dr. [IAC Member 2] – [Institution], [Country]",
+    "Dr. [IAC Member 3] – [Institution], [Country]",
+    "Prof. [IAC Member 4] – [Institution], [Country]",
+    "Dr. [IAC Member 5] – [Institution], [Country]",
+    "Prof. [IAC Member 6] – [Institution], [Country]"
+  ],
+  "nationalAdvisory": [
+    "Dr. [NAC Member 1] – Director, [Institution], India",
+    "Prof. [NAC Member 2] – IIT [City], India",
+    "Dr. [NAC Member 3] – [Institution], India",
+    "Dr. [NAC Member 4] – [Institution], India",
+    "Prof. [NAC Member 5] – [University], India"
+  ],
+  "scope": [
+    "Dimensional Metrology & Calibration",
+    "Coordinate Measuring Machines (CMM) & Gauging",
+    "Optical & Laser Metrology",
+    "Nano-metrology & Micro-fabrication",
+    "Surface Metrology & Roughness Measurement",
+    "Quantum Metrology & Fundamental Constants",
+    "Thermal & Pressure Metrology",
+    "Environmental & Chemical Metrology",
+    "Electrical & Electromagnetic Metrology",
+    "Mass, Force & Torque Metrology",
+    "Acoustic & Vibration Metrology",
+    "Metrology in Healthcare & Biomedical Devices",
+    "Industry 4.0 & Smart Metrology",
+    "Measurement Uncertainty & Traceability",
+    "Digital Metrology & Data Analytics",
+    "Non-Destructive Testing (NDT)",
+    "Material Testing & Characterization",
+    "Fluid Metrology",
+    "Legal Metrology & Standards",
+    "Metrology Education & Outreach"
+  ],
+  "workshop": {
+    "title": "PRE-ADMET WORKSHOP 2026",
+    "date": "5 October 2026",
+    "theme": "Advanced Metrology for Emerging Technologies",
+    "description": "A workshop will be organized as Pre-AdMet workshop 2026 event on October 5, 2026 in selected areas of advanced metrology. The Pre-AdMet Workshop is scheduled on the theme 'Advanced Metrology for Emerging Technologies'. Details will be updated soon..."
+  },
+  "registration": {
+    "currency_note": "*18% GST must be paid in addition to the registration fee",
+    "earlyBirdNote": "Early bird Registration Extended till September 8, 2026",
+    "eventAddress": "Central Manufacturing Technology Institute (CMTI), Bengaluru, India",
+    "includes": "Registration kit, accommodation on twin sharing basis (one night for workshop and two nights for conference), breakfast, tea/coffee, lunch and dinner, and conference dinner.",
+    "language": "English",
+    "payment": {
+      "mode": "Demand Draft / Cheque / NEFT / UPI",
+      "payable_to": "Metrology Society of India",
+      "bank": "Canara Bank, NPL Branch",
+      "account_name": "Metrology Society of India",
+      "account_no": "91002010007422",
+      "ifsc": "CNRB0019100",
+      "swift": "CNRBINBBBFD",
+      "upi": "317625982007422@cnrb"
+    },
+    "indianFees": [
+      {
+        "category": "Pre-AdMet Workshop Only",
+        "rows": [
+          {
+            "type": "Non-MSI Member",
+            "early": "5,000",
+            "regular": "6,000",
+            "earlyNoAccom": "3,000",
+            "regularNoAccom": "4,000"
+          },
+          {
+            "type": "MSI Member",
+            "early": "4,000",
+            "regular": "5,000",
+            "earlyNoAccom": "2,500",
+            "regularNoAccom": "3,500"
+          },
+          {
+            "type": "Student",
+            "early": "2,000",
+            "regular": "3,000",
+            "earlyNoAccom": "1,000",
+            "regularNoAccom": "2,000"
+          }
+        ]
+      },
+      {
+        "category": "AdMet Conference Only",
+        "rows": [
+          {
+            "type": "Non-MSI Member",
+            "early": "15,000",
+            "regular": "17,000",
+            "earlyNoAccom": "8,000",
+            "regularNoAccom": "9,000"
+          },
+          {
+            "type": "MSI Member",
+            "early": "13,000",
+            "regular": "15,000",
+            "earlyNoAccom": "7,000",
+            "regularNoAccom": "8,000"
+          },
+          {
+            "type": "Student",
+            "early": "7,000",
+            "regular": "8,000",
+            "earlyNoAccom": "2,000",
+            "regularNoAccom": "3,000"
+          }
+        ]
+      },
+      {
+        "category": "Workshop + Conference",
+        "rows": [
+          {
+            "type": "Non-MSI Member",
+            "early": "18,000",
+            "regular": "21,000",
+            "earlyNoAccom": "10,000",
+            "regularNoAccom": "12,000"
+          },
+          {
+            "type": "MSI Member",
+            "early": "15,000",
+            "regular": "18,000",
+            "earlyNoAccom": "8,000",
+            "regularNoAccom": "10,000"
+          },
+          {
+            "type": "Student",
+            "early": "8,000",
+            "regular": "10,000",
+            "earlyNoAccom": "3,000",
+            "regularNoAccom": "4,000"
+          }
+        ]
+      }
+    ],
+    "foreignFees": [
+      {
+        "category": "Workshop + Conference",
+        "type": "All Delegates",
+        "early": "600 USD",
+        "regular": "700 USD"
+      }
+    ]
+  },
+  "venue": {
+    "name": "Central Manufacturing Technology Institute (CMTI)",
+    "address": "Tumakuru Road, Yeshwanthpur Industrial Area, Bengaluru, Karnataka 560022, India",
+    "website": "https://www.cmti.res.in",
+    "airports": [
+      "Kempegowda International Airport (BLR) – ~35 km from venue"
+    ],
+    "mapEmbed": "https://www.google.com/maps?q=Central+Manufacturing+Technology+Institute+Bengaluru&output=embed"
+  },
+  "gallery": [
+    {
+      "path": "/images/uploads/1775125919648-602877.jpg",
+      "caption": ""
+    },
+    {
+      "path": "/images/uploads/1775125927678-654337.jpg",
+      "caption": ""
+    },
+    {
+      "path": "/images/uploads/1775125950742-982826.jpg",
+      "caption": ""
+    },
+    {
+      "path": "/images/uploads/1775125957490-587424.jpg",
+      "caption": ""
+    },
+    {
+      "path": "/images/uploads/1775125967725-226448.jpg",
+      "caption": ""
+    }
+  ],
+  "sponsors": [
+    {
+      "level": "Platinum Sponsor",
+      "name": "[Sponsor Name]",
+      "logo": "/images/uploads/1775126808946-767665.png"
+    },
+    {
+      "level": "Gold Sponsor",
+      "name": "[Sponsor Name]",
+      "logo": ""
+    },
+    {
+      "level": "Silver Sponsor",
+      "name": "[Sponsor Name]",
+      "logo": ""
+    },
+    {
+      "level": "Technical Partner",
+      "name": "[Partner Name]",
+      "logo": ""
+    },
+    {
+      "level": "Media Partner",
+      "name": "[Media Partner]",
+      "logo": ""
+    }
+  ],
+  "heroImages": [
+    {
+      "path": "/images/uploads/1775125711032-906958.jpg",
+      "caption": ""
+    }
+  ],
+  "bannerLogos": [
+    {
+      "path": "/images/uploads/1775449968174-782014.png",
+      "alt": "Logo"
+    },
+    {
+      "path": "/images/uploads/1775449979969-661077.jpg",
+      "alt": "Logo"
+    }
+  ],
+  "brochure": "",
+  "secondCircular": "",
+  "abstractFormUrl": "https://docs.google.com/forms/d/e/1FAIpQLScM6NWZDcG9uP3s1n1SJ_Y7jU-PLlxCw08QtV6GqMjqdnJEiw/viewform?usp=dialog",
+  "registrationFormIndianUrl": "https://docs.google.com/forms/d/e/your-indian-reg-form-id/viewform",
+  "registrationFormForeignUrl": "https://docs.google.com/forms/d/e/your-foreign-reg-form-id/viewform"
+}
